@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ID">ID</string>
+    <string name="name">Name</string>
+    <string name="process">Process</string>
+    <string name="show">Show</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+</resources>
